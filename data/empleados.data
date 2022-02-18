@@ -1,0 +1,43 @@
+empresa.cantidadEmpleados=6
+
+empresa.empleado1.nombreEmpleado=Juan Perez
+empresa.empleado1.cedulaEmpleado=93408001
+empresa.empleado1.generoEmpleado=M
+empresa.empleado1.categoriaEmpleado=1
+empresa.empleado1.afiliadoFondoEmpleado=S
+empresa.empleado1.imagen=empleado1.png
+
+empresa.empleado2.nombreEmpleado=Maria Ramirez
+empresa.empleado2.cedulaEmpleado=65632902
+empresa.empleado2.generoEmpleado=F
+empresa.empleado2.categoriaEmpleado=3
+empresa.empleado2.afiliadoFondoEmpleado=N
+empresa.empleado2.imagen=empleado2.png
+
+empresa.empleado3.nombreEmpleado=Pedro Gonzalez
+empresa.empleado3.cedulaEmpleado=1110505678
+empresa.empleado3.generoEmpleado=M
+empresa.empleado3.categoriaEmpleado=2
+empresa.empleado3.afiliadoFondoEmpleado=N
+empresa.empleado3.imagen=empleado3.png
+
+empresa.empleado4.nombreEmpleado=Daniela Mendoza
+empresa.empleado4.cedulaEmpleado=28536200
+empresa.empleado4.generoEmpleado=F
+empresa.empleado4.categoriaEmpleado=1
+empresa.empleado4.afiliadoFondoEmpleado=S
+empresa.empleado4.imagen=empleado4.png
+
+empresa.empleado5.nombreEmpleado=Mauricio Lozano
+empresa.empleado5.cedulaEmpleado=1110476500
+empresa.empleado5.generoEmpleado=M
+empresa.empleado5.categoriaEmpleado=3
+empresa.empleado5.afiliadoFondoEmpleado=N
+empresa.empleado5.imagen=empleado5.png
+
+empresa.empleado6.nombreEmpleado=Margarita Afanador
+empresa.empleado6.cedulaEmpleado=38231800
+empresa.empleado6.generoEmpleado=F
+empresa.empleado6.categoriaEmpleado=2
+empresa.empleado6.afiliadoFondoEmpleado=N
+empresa.empleado6.imagen=empleado6.png
